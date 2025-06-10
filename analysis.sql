@@ -1,3 +1,7 @@
+Music Store Database Analysis
+-- Author: Yash Chowdhary
+-- Description: SQL queries for analyzing music store business performance
+
 -- Q1. Who is the senior most employee based on job title?
 
 SELECT * 
